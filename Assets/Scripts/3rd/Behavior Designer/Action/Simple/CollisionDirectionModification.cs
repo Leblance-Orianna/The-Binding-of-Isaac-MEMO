@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
 namespace BehaviorDesigner.Runtime.Tasks.Custom
 {
     [TaskDescription("碰撞方向修饰，发生碰撞时返回True，并为绑定的Task更新修饰方向")]

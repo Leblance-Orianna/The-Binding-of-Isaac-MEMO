@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class RandomPropFromPool : MonoBehaviour, IRandomGameObject
 {
     public PropPoolType type;

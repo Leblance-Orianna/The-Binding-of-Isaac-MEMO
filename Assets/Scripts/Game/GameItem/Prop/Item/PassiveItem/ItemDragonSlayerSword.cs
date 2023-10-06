@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ItemDragonSlayerSword : PassiveItem
 {
     protected override void SetID()

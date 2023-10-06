@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 //房间类型
 public enum RoomType { Start, Normal, Boss, Treasure, Shop };
 

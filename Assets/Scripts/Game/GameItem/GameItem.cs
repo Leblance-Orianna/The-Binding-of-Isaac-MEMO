@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public abstract class GameItem : MonoBehaviour
 {
     public abstract GameItemType gameItemType { get; }

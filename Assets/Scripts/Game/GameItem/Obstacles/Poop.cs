@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Poop : Obstacles, IAttackable, IDestructible
 {
     public List<Sprite> shapes;

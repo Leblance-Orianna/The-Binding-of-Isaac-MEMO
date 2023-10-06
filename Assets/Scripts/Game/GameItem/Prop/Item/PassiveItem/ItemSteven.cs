@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ItemSteven : PassiveItem
 {
     protected override void SetID()

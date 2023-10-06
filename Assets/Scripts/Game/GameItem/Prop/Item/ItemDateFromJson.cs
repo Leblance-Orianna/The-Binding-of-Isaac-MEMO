@@ -4,6 +4,7 @@ using UnityEngine;
 using System.IO;
 using Newtonsoft.Json;
 
+
 public class ItemDateFromJson
 {
     private static List<ItemInformation> itemInfoList;

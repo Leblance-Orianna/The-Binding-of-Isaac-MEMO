@@ -5,7 +5,6 @@ using UnityEngine;
 public class RandomGameObjectTable : MonoBehaviour
 {
     public List<SimplePairWithGameObjectInt> table;
-
     /// <summary>
     /// 根据概率获取物品，该算法简单但有效
     /// </summary>

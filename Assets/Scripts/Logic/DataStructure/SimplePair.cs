@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 //自定义泛型数据对
 public class SimplePair<T1, T2>
 {

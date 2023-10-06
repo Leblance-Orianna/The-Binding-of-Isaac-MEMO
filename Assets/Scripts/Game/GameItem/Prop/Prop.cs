@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public abstract class Prop : GameItem
 {
     public override GameItemType gameItemType { get { return GameItemType.Prop; } }

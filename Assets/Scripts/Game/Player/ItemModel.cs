@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 /// <summary>
 /// 背包MVC模式--Model层。保存背包物品数据，提供数据操作方法
 /// </summary>

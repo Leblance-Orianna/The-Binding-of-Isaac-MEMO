@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 /// <summary>
 /// 不受Time.timeScale影响的等待时间
 /// </summary>

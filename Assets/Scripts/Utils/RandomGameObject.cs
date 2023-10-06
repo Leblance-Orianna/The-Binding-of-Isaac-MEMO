@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 [RequireComponent(typeof(RandomGameObjectTable))]
 public class RandomGameObject : MonoBehaviour, IRandomGameObject
 {

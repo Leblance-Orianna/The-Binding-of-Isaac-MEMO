@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Goods : Prop
 {
     public enum Goodstype { Item, Pickup }

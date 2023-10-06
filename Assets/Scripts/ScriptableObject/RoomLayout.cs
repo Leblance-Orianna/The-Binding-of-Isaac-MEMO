@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
+
 [CreateAssetMenu(menuName = "新的房间布局文件")]
 public class RoomLayout : ScriptableObject
 {
