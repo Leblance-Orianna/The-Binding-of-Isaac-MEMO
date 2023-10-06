@@ -5,6 +5,7 @@ using UnityEngine;
 using Pathfinding;
 using BehaviorDesigner.Runtime;
 
+
 public abstract class Monster : GameItem, IAttackable
 {
     public override GameItemType gameItemType { get { return GameItemType.Monster; } }

@@ -15,3 +15,4 @@ public abstract class Minion : Monster
         knockBackSeconds = 0.1f;
     }
 }
+

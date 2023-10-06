@@ -11,3 +11,5 @@ public class Dip : Minion
     protected override void InitializeCustomField() { }
     protected override void InitializeSkills() { }
 }
+
+

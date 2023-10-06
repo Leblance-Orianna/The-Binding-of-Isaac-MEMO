@@ -9,3 +9,4 @@ public class SkillStateInfo
 }
 
 public delegate IEnumerator SkillDelegate();
+
